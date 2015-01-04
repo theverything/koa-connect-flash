@@ -1,6 +1,6 @@
 {
   "name": "koa-connect-flash",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Flash message middleware for koa-passport.",
   "keywords": ["connect", "koa", "flash", "messages", "passport"],
   "repository": {
