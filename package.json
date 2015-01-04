@@ -1,14 +1,14 @@
 {
-  "name": "connect-flash",
+  "name": "koa-connect-flash",
   "version": "0.1.1",
-  "description": "Flash message middleware for Connect.",
-  "keywords": ["connect", "express", "flash", "messages"],
+  "description": "Flash message middleware for koa-passport.",
+  "keywords": ["connect", "koa", "flash", "messages", "passport"],
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/connect-flash.git"
+    "url": "git://github.com/theverything/koa-connect-flash.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/connect-flash/issues"
+    "url": "http://github.com/theverything/koa-connect-flash/issues"
   },
   "author": {
     "name": "Jared Hanson",
@@ -17,7 +17,7 @@
   },
   "licenses": [ {
     "type": "MIT",
-    "url": "http://www.opensource.org/licenses/MIT" 
+    "url": "http://www.opensource.org/licenses/MIT"
   } ],
   "main": "./lib",
   "dependencies": {
@@ -28,5 +28,5 @@
   "scripts": {
     "test": "NODE_PATH=lib node_modules/.bin/vows test/*-test.js"
   },
-  "engines": { "node": ">= 0.4.0" }
+  "engines": { "node": ">= 0.11.13" }
 }
