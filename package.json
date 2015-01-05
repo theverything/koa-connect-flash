@@ -21,10 +21,10 @@
   } ],
   "main": "./lib",
   "dependencies": {
+    "connect-flash": "^0.1.1"
   },
   "devDependencies": {
     "vows": "0.6.x",
-    "connect-flash": "^0.1.1",
     "koa": "^0.14.0",
     "koa-generic-session": "^1.3.0",
     "koa-router": "^3.8.0"
