@@ -1,3 +1,5 @@
+## DEPRECATED: PLEASE USE [KOA-BETTER-FLASH](https://github.com/niftylettuce/koa-better-flash)
+
 # koa-connect-flash
 
 The flash is a special area of the session used for storing messages.  Messages
